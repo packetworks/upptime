@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Packetworks.org
     url: http://packetworks.org
-  - name: diktok
+  - name: DikTok
     url: http://diktok.us.to
 
 
@@ -28,10 +28,10 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  graphs: "0 */6 * * *"
-  responseTime: "0 */2 * * *"
+  graphs: "0 */12 * * *"
+  responseTime: "0 */6 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/30 * * * *"
+  uptime: "* */2 * * *"
