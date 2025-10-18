@@ -4,17 +4,17 @@
     "url": "http://packetworks.org",
     "icon": "https://icons.duckduckgo.com/ip3/packetworks.org.ico",
     "slug": "packetworks-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 740,
-    "timeDay": 4080,
-    "timeWeek": 2673,
-    "timeMonth": 1555,
-    "timeYear": 766,
+    "time": 744,
+    "timeDay": 3843,
+    "timeWeek": 2631,
+    "timeMonth": 1582,
+    "timeYear": 769,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 108,
+    "timeDay": 128,
     "timeWeek": 339,
-    "timeMonth": 406,
-    "timeYear": 393,
+    "timeMonth": 404,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
