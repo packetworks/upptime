@@ -4,7 +4,7 @@
     "url": "http://packetworks.org",
     "icon": "https://icons.duckduckgo.com/ip3/packetworks.org.ico",
     "slug": "packetworks-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 1278,
-    "timeWeek": 2241,
+    "timeWeek": 2278,
     "timeMonth": 1947,
     "timeYear": 814,
     "dailyMinutesDown": {}
