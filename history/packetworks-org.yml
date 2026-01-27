@@ -1,7 +1,7 @@
 url: http://packetworks.org
-status: down
-code: 429
-responseTime: 472
-lastUpdated: 2026-01-27T22:49:12.949Z
+status: up
+code: 200
+responseTime: 1298
+lastUpdated: 2026-01-27T23:12:32.792Z
 startTime: 2023-04-09T03:23:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
