@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1161,
-    "timeDay": 976,
-    "timeWeek": 1177,
-    "timeMonth": 1194,
-    "timeYear": 1168,
+    "timeDay": 1150,
+    "timeWeek": 1188,
+    "timeMonth": 1191,
+    "timeYear": 1169,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "http://diktok.us.to",
     "icon": "https://icons.duckduckgo.com/ip3/diktok.us.to.ico",
     "slug": "dik-tok",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 201,
-    "timeWeek": 191,
-    "timeMonth": 189,
-    "timeYear": 392,
+    "time": 420,
+    "timeDay": 971,
+    "timeWeek": 250,
+    "timeMonth": 200,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   }
 ]
